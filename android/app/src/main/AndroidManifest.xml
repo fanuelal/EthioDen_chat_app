@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ethioden_chat_app">
    <application
-        android:label="ethioden_chat_app"
+        android:label="Ethioden chat"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
